@@ -1,7 +1,8 @@
 Дрозд Софья Александровна
 # Тестовое задание на системного аналитика в CDL 
 
-![image](https://github.com/ouzel/syst_analyst_test_task_1_1_1/assets/90156908/b73620ff-3da6-46c8-9d47-20b4d1dbf35f)
+![image](https://github.com/ouzel/syst_analyst_test_task_1_1_1/assets/90156908/9b253c07-f5a4-4cf0-ae8f-384e1a89798b)
+
 
 ```sql
 /* total_members — количество пользователей,
@@ -21,7 +22,8 @@ FROM tbl_member
   LEFT JOIN tbl_order ON tbl_member.member_id=tbl_order.member_id;
 ```
 
-![image](https://github.com/ouzel/syst_analyst_test_task_1_1_1/assets/90156908/a9518fd6-d217-4d6c-9e71-79c299186841)
+![image](https://github.com/ouzel/syst_analyst_test_task_1_1_1/assets/90156908/f29c12d7-bf69-40f4-bd82-256edf1178f1)
+
 
 ```sql
 /* Все абоненты, у кого последнее устройство Samsung. */
